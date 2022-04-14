@@ -39,4 +39,4 @@ Vous devez implémenter les conversions suivantes :
 
 ## Auteur
 
-- Yanis Labbé#
+- Yanis Labbé
